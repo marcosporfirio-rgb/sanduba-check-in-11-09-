@@ -1,0 +1,6 @@
+{
+  "name": "Check-in Sanduba Secreto",
+  "description": "Apresentação visual dos resultados e próximos passos comerciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
